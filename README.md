@@ -4,10 +4,9 @@ Setup:
  - Env Requirements:
    1) Node 16.7.0
  - Startup:
-   1) Open a terminal in the root folder and run "npm install"
-   2) Run "npm start" in the root folder to start local server with POST endpoint
-   3) Open another terminal in the CLIENT folder and run "npm start" to start local client server
-   4) If your browser didn't open - go to http://localhost:3000
+   1)  Open a terminal in the root folder and run "npm install" and "npm start" to start local Back-End server with POST endpoint
+   2)  Open another terminal in the CLIENT folder and run "npm install" and "npm start" to start local Client server
+   3)  If your browser didn't open - go to http://localhost:3000
    
 Summary:
  1) Created local dev server with REST POST endpoint using Node.js and Express
